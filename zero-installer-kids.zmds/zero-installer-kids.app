@@ -1,0 +1,17 @@
+Name=Resources for kids
+Name[es]=Recursos para niños
+Name[en]=Resources for kids
+Name[qcv]=Recursos per a xiquets
+Name[ca_ES]=Recursos per a xiquets
+Comment=Select programs to install
+Comment[es]=Selecciona los programas para instalar
+Comment[qcv]=Selecciona els programes per a instal·lar
+Comment[ca_ES]=Selecciona els programes per a instal·lar
+Icon=zero-installer-kids
+Groups=sudo;admins;
+Category=resources
+ScriptPath=zero-installer-kids.zmd
+Using=pkexec
+Service=False
+Modal=True
+Locks=zero-installer-kids
