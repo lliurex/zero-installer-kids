@@ -11,8 +11,8 @@
         {"url":"deb http://es.archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse"},
         {"url":"deb http://security.ubuntu.com/ubuntu focal-security main restricted universe multiverse"}
     ],
-    "script": {"name":"/usr/share/zero-installer-educational/zero-installer-educational_script", "remove":true,"download":true,"getStatus":true},
-    "zomando":"zero-installer-educational",
-    "custom_icon_path":"/usr/share/zero-installer-educational/",
+    "script": {"name":"/usr/share/zero-installer-kids/zero-installer-kids_script", "remove":true,"download":true,"getStatus":true},
+    "zomando":"zero-installer-kids",
+    "custom_icon_path":"/usr/share/zero-installer-kids/",
     "selection_enabled":{"active":true,"all_selected":false}
 }
