@@ -25,6 +25,17 @@ case $ACTION in
 
     preInstall)
         echo "preInstall phase ..."
+        for package in $PACKAGE_LIST; do
+            if [ "$package" == "class-jam" ]; then
+                status "nwjs0.30"
+                if [ "$ret" == "install ok installed" ]; then
+                    echo "nwjs 0.30 is installed"
+                else
+                    echo "installing nwjs 0.30 as dependency"
+                    apt-get install -y nwjs0.30
+                fi
+            fi
+        done
     ;;
 
     installPackage)
