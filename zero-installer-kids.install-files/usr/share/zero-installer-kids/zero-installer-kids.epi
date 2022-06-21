@@ -5,7 +5,8 @@
         {"name":"schoolmedia","custom_name":"Clipart media collection for kids","custom_icon":"schoolmedia.png","type":"apt","key_store":"schoolmedia","addRepoKeys":false,"getStatus":false,"remove":true,"installPackage":false,"download":false,"preInstall":false,"postInstall":false},
         {"name":"rsc-jclics","custom_name":"A collection of jclic resources","custom_icon":"jclic.png","type":"apt","key_store":"rsc-jclics","addRepoKeys":false,"getStatus":false,"remove":true,"installPackage":false,"download":false,"preInstall":false,"postInstall":false},
         {"name":"runomatic","custom_name":"Runomatic: Activity launcher for kids.","custom_icon":"runomatic.png","type":"apt","key_store":"runomatic","addRepoKeys":false,"getStatus":false,"remove":true,"installPackage":false,"download":false,"preInstall":false,"postInstall":false},
-        {"name":"class-jam","custom_name":"Classroom Assembly for children and special education","custom_icon":"class-jam.png","type":"apt","key_store":"class-jam","addRepoKeys":false,"getStatus":false,"remove":true,"installPackage":false,"download":false,"preInstall":true,"postInstall":false}
+        {"name":"class-jam","custom_name":"Classroom Assembly for children and special education","custom_icon":"class-jam.png","type":"apt","key_store":"class-jam","addRepoKeys":false,"getStatus":false,"remove":true,"installPackage":false,"download":false,"preInstall":true,"postInstall":false},
+        {"name":"pysiogame","custom_name":"PysioGame: Educational activity pack for kids","custom_icon":"pysiogame.png","type":"apt","key_store":"pysiogame","addRepoKeys":false,"getStatus":false,"remove":true,"installPackage":false,"download":false,"preInstall":false,"postInstall":false}
     ],
     "repository": [
         {"url":"deb http://es.archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse"},
