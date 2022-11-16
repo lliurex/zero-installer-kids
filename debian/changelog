@@ -1,3 +1,9 @@
+zero-installer-kids (0.2.2-lliurex19) bionic; urgency=medium
+
+  * Backported from focal (LliureX 21)
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 16 Nov 2022 12:53:48 +0100
+
 zero-installer-kids (0.2.2) lliurex22; urgency=medium
 
   * Add pysiogame
