@@ -1,0 +1,15 @@
+Source: zero-installer-kids
+Section: utils
+Priority: optional
+Maintainer: M.Angel Juan <m.angel.juan@gmail.com>
+Build-Depends: debhelper-compat (= 12), zero-dev, llxsrchelper
+Standards-Version: 4.4.1
+Homepage: https://github.com/lliurex/zero-installer-kids
+Vcs-Git: https://github.com/lliurex/zero-installer-kids
+
+Package: zero-installer-kids
+Architecture: all
+Depends: ${misc:Depends}
+Description: Educational resources & apps for kids
+ Installer for kids resources & apps 
+
