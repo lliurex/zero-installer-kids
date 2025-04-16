@@ -1,3 +1,9 @@
+zero-installer-kids (0.22.2) noble; urgency=medium
+
+  * Initial release for Noble
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 16 Apr 2025 09:44:19 +0200
+
 zero-installer-kids (0.12.2) jammy; urgency=medium
 
   * Initial release for Jammy
