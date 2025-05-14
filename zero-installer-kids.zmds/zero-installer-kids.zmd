@@ -1,2 +1,2 @@
 #!/bin/bash
-epi-gtk /usr/share/zero-installer-kids/zero-installer-kids.epi
+epi-gtk /usr/share/zero-installer-kids/zero-installer-kids.epi $1
